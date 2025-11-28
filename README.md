@@ -39,3 +39,4 @@ Line Chart
 Area Chart
 
 These visualizations help users easily understand trends, patterns, and KPIs.
+Screenshot 2025-11-28 120947.png
